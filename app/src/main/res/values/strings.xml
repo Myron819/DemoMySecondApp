@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Demo My Second App</string>
+    <string name="message">Welcome to Android</string>
+    <string name="sometext">Large Text</string>
+    <string name="btn2">BUTTON 2</string>
+
+    <string name="title_activity_exercise2_c">Exercise2C</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_exercise2_d">Exercise2D</string>
+    <string name="title_activity_exercise3">Exercise3A</string>
+    <string name="title_activity_exercise3_b">Exercise3B</string>
+    <string name="title_activity_exercise4">Exercise4A</string>
+</resources>
